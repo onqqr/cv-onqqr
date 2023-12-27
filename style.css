@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+/* STYLE BODY */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(87, 199, 199);
+}
