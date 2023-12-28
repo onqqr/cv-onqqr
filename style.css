@@ -20,6 +20,10 @@ body {
   background-color: rgb(87, 199, 199);
 }
 
+.header-box {
+  display: flex;
+}
+
 h1 {
   font-size: 20px;
   font-family:Impact, 'Arial Narrow Bold', sans-serif;
