@@ -19,3 +19,9 @@ body {
   align-items: center;
   background-color: rgb(87, 199, 199);
 }
+
+h1 {
+  font-size: 20px;
+  font-family:Impact, 'Arial Narrow Bold', sans-serif;
+  margin: 0;
+}
